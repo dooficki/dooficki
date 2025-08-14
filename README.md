@@ -67,54 +67,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 
 ---
 
-### 🏆 Projetos em Destaque
-
-<table>
-  <tr>
-    
-    <td width="50%">
-      <h3 align="center">✅ To-Do List JavaScript</h3>
-      <p align="center">
-        <a href="https://github.com/dooficki/Projeto-To-Do-List-JavaScript-Puro" target="_blank">
-          <img src="https://via.placeholder.com/400x200/2d3748/ffffff?text=To-Do+List" width="100%" alt="To-Do List"/>
-        </a>
-        <p align="center">
-          To-Do List completa com adicionar, editar, excluir, filtro e barra de busca em JavaScript puro.
-        </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 Sistema de Login PHP</h3>
-      <p align="center">
-        <a href="https://github.com/dooficki/-SISTEMA-DE-LOGIN-BASICO-COM-PHP-PURO" target="_blank">
-          <img src="https://via.placeholder.com/400x200/2d3748/ffffff?text=Login+PHP" width="100%" alt="Sistema de Login"/>
-        </a>
-        <p align="center">
-          Sistema de autenticação básico desenvolvido em PHP puro com validações de segurança.
-        </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🗄️ CRUD PHP MySQL</h3>
-      <p align="center">
-        <a href="https://github.com/dooficki/Projeto-CRUD-COMPLETO-COM-PHP-MYSQL-BOOTSTRAP" target="_blank">
-          <img src="https://via.placeholder.com/400x200/2d3748/ffffff?text=CRUD+PHP" width="100%" alt="CRUD PHP"/>
-        </a>
-        <p align="center">
-          Sistema CRUD completo com PHP, MySQL e Bootstrap para gerenciamento de dados.
-        </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Contribuições
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=dooficki&theme=radical)
-
----
-
 ### 📫 Como Me Encontrar
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](williamjusloy@gmail.com)
